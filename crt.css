@@ -6,11 +6,11 @@
 }
 body
 {
-  background: linear-gradient(135deg, #2C3E50, #B0BEC5); /* Darker blue */
+  background: linear-gradient(135deg, #2C3E50, #B0BEC5);
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: 0 0; /* Start position */
-  color: white; /* Ensure the text is readable against the dark background */
+  background-position: 0 0;
+  color: white; 
 
   font-family: "Lato", sans-serif;
   font-weight: 400;
@@ -549,9 +549,9 @@ section {
 
 
 .atc {
-  background: #B0BEC5; /* Orange to Red on hover */
-  color: #E2E8F0; /* Soft light*
-color: #1E1E1E; /* Dark text for contrast */
+  background: #B0BEC5; 
+  color: #E2E8F0; 
+color: #1E1E1E; 
   font-size: 16px;
   font-weight: bold;
   padding: 12px 20px;
